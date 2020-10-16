@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+C:\Users\inviz\source\repos\polsl-aei-pk3-gr21-Mos\Lab 2\Lab2\Lab2\Lab2.cpp(256,20): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\inviz\source\repos\polsl-aei-pk3-gr21-Mos\Lab 2\Lab2\Lab2\Lab2.cpp(259,22): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Lab2.vcxproj -> C:\Users\inviz\source\repos\polsl-aei-pk3-gr21-Mos\Lab 2\Lab2\Debug\Lab2.exe

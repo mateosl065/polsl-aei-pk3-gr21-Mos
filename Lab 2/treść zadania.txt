@@ -1,0 +1,16 @@
+Dla klasy Punkt (poprzednie zadanie) zdefiniowaać operatory:
+1) += (działa jak dodaj(Punkt &p)
+2) =
+3) ==
+4) + umożliwia operację a=b+c (do punktu a dodaje sume 2 punktów);
+5) operator strumieniowy drukujący na ekranie punkt (odpowiednik drukuj()
+Dla klasy Tablica zdefiniowaać operatory:
+1) = (Używając this zapiobiec operacji typu a=a (kopiowanie samego siebie);
+czy dla klasy Tablica można użyć opertaora = bez jego definiowania, czy program będzie wtedy działał prawidłowo ?
+2) == (działa jak porownaj(&w))
+3) operator strumieniowy drukujący na ekranie punkt (odpowiednik drukuj())
+4) operator +=
+5) operator [] umozliwiający odczytywanie i modyfikowannie i -tego elementu wektora
+zdefiniować dla klasy wektor konstruktor umożliwiający czytanie danych z pliku tekstowego
+UWAGA:
+Wszystkie operatory i metody nalęzy przetestować w programie main. Klasa Tablica korzysta z operatorów klasy Punkt.

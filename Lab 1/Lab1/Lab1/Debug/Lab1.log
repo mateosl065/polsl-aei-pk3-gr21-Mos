@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\inviz\Desktop\Lab1\Lab1\Lab1.cpp(143,20): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\inviz\Desktop\Lab1\Lab1\Lab1.cpp(146,22): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Lab1.vcxproj -> C:\Users\inviz\Desktop\Lab1\Debug\Lab1.exe
